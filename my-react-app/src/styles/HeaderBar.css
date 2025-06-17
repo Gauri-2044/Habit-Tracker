@@ -1,0 +1,17 @@
+.row{
+    background-color: rgb(99, 99, 241);
+    padding: 0.5rem 4rem 0.5rem 4rem;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.row button{
+background-color: rgb(99, 99, 241);
+}
+
+/* .header-bar{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+} */

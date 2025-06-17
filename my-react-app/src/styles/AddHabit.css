@@ -1,0 +1,166 @@
+.form-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+form {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.labels,
+.input-boxes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.labels {
+  gap: 1.2rem;
+}
+.input-boxes {
+  gap: 0.9rem;
+}
+
+input {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  border: 1px solid #ccc;
+  border: none;
+  background-color: rgb(235, 140, 140);
+}
+
+#add-btn {
+  width: 30%;
+}
+
+/* 
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+.form-div{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     width:60%;
+     height:50%;
+     background-color: rgb(247, 223, 189);
+     border-radius: 1rem;
+}
+
+button {
+  background-color: rgb(241, 80, 80);
+  border-radius: 0.2rem;
+  padding: 0.5rem;
+}
+
+input {
+  border-radius: 0.2rem;
+  padding: 0.5rem;
+}
+ */
+
+/* AddHabit.css */
+
+/* General styling for the container */
+/* 
+.form-div {
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.form-div h1 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+  */
+
+/* Form elements styling */
+/*
+.form-div form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-div label {
+  font-size: 1rem;
+  color: #555;
+  text-align: left;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.form-div input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.form-div input:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+*/
+/* Button styling */
+/* .form-div button {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-div button:hover {
+  background-color: #0056b3;
+} */
+
+/* Responsive design */
+/* @media (max-width: 600px) {
+  .form-div {
+    padding: 15px;
+  }
+
+  .form-div h1 {
+    font-size: 1.5rem;
+  }
+
+  .form-div input {
+    padding: 8px;
+  }
+
+  .form-div button {
+    font-size: 0.9rem;
+  }
+} */
